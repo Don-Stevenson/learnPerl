@@ -1,9 +1,14 @@
 #!/usr/bin/perl
 
-use strict;
+
 use warnings;
 
 
-my $age = 25;
+ $length = 25;
+  $width = 10;
+  $area =
+  $length *
+  $width;
 
-print "$age\n";
+
+print "area is length $length multiplied by $length. The area is $area\n";
