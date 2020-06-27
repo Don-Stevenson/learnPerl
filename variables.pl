@@ -1,4 +1,13 @@
 #!/usr/bin/perl
 
-use strict;
-use warnings;
+$age = 25;             # An integer assignment
+$name = "John Paul";   # A string 
+$salary = 1445.50;     # A floating point
+
+print "Age = $age\n";
+print "Name = $name\n";
+print "Salary = $salary\n";
+
+$sandwich = 3;  # A sandwich
+
+print "Sandwich  = $sandwich\n";
