@@ -1,8 +1,6 @@
 #!/usr/bin/perl
 
-
 use warnings;
-
 
  $length = 25;
   $width = 10;
