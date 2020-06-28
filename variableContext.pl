@@ -6,7 +6,7 @@
 $size = @names;
 
 @nums = ( 1, 2, 3, 4 );
-@newNums = map(@nums *2);
+@newNums = map @nums(x => x * 2);
 
 
 print "Given names are : @copy\n";
